@@ -1,6 +1,6 @@
 # UdpClientServer
 
-**TODO: Add description**
+Simple client server using UDP (erlang's :gen_udp library) in elixir
 
 ## Installation
 
@@ -12,8 +12,3 @@ def deps do
   [{:udp_client_server, "~> 0.1.0"}]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/udp_client_server](https://hexdocs.pm/udp_client_server).
-
