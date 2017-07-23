@@ -35,3 +35,5 @@ Interactive Elixir (1.4.5) - press Ctrl+C to exit (type h() ENTER for help)
 iex(1)> UdpClientServer.send_data("hello")
 :ok
 ```
+
+![screen shot example](/static/screenshot-demo.png)
