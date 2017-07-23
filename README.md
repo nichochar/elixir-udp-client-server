@@ -11,7 +11,7 @@ Simply clone this repo, then run `mix deps.get` to fetch all the dependencies
 ## Playing with the repo
 
 
-The main file you're looking for is [udp_client_server](lib/udp_client_server.ex).
+The code is in [lib/udp_client_server.ex](lib/udp_client_server.ex).
 Currently, this doesn't run anything by default. To run it, I suggest opening 2 iex shells (iex is the elixir REPL), loading up the context of the repo.
 
 
