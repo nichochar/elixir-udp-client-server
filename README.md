@@ -1,7 +1,7 @@
 # UdpClientServer
 
 Simple client server using UDP (erlang's :gen_udp library) in elixir
-This leverages the [elixir-socket](https://github.com/meh/elixir-socket), which in turn is a wrapper around `get_tcp`, `gen_udp`, `gen_tscp` and `ssl` from erlang.
+This leverages the [elixir-socket](https://github.com/meh/elixir-socket), which in turn is a wrapper around `get_tcp`, [`gen_udp`](http://erlang.org/doc/man/gen_udp.html), `gen_tscp` and `ssl` from erlang.
 
 ## Installation
 
